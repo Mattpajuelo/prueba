@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "terminar trabajo practico",
+        "estado": "finalizado"
+    },
+    {
+        "titulo": "desarrollar una pagina",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "terminar la universidad",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "dominar al mundo",
+        "estado": "pendiente"
+    }
+]
